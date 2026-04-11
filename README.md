@@ -9,6 +9,10 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">
 </h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cabdifatahtoni&label=PROFILE+VIEWS&color=0077B5&style=flat" alt="Cabdifatah Toni Views" />
+</div>
+
 ### 🌐 Frontend Developer | Computer Science Student | AI Enthusiast
 
 I am a dedicated Frontend Developer and current student at **Golis University**. I focus on building clean, interactive user interfaces and exploring the intersection of web technology and Artificial Intelligence. Based in **Hargeisa**, I am passionate about creating digital solutions that make an impact.
@@ -29,8 +33,6 @@ I am a dedicated Frontend Developer and current student at **Golis University**.
     * **Note:** This is my debut project, polished and customized to provide a modern chat experience.
 
 ---
-
-### 🌱 GitHub Contributions
 
 ### 🌱 GitHub Contributions
 
