@@ -68,7 +68,7 @@ I am a dedicated Frontend Developer and current student at **Golis University**.
 
 ### 🎓 Education
 
-**B.S. in SOftware Engineering | Golis University**
+**B.S. in Software Engineering | Golis University**
 * **Status:** Current Student
 * **Focus:** Software Engineering, Web Development, and AI Applications.
 * **Dedication:** This journey is dedicated to my **Mother** and my **Father** 💖 always.
