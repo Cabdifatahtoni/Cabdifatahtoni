@@ -10,9 +10,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/Cabdifatahtoni">
-    <img src="https://u8views.com/api/v1/github/profiles/Cabdifatahtoni/views/day-week-month-total-count.svg" alt="Cabdifatah Toni Profile Views">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Cabdifatahtoni&label=PROFILE+VIEWS&color=0077B5&style=flat" alt="Cabdifatah Toni Views" />
 </div>
 
 ### 🌐 Frontend Developer | Computer Science Student | AI Enthusiast
