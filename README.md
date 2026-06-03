@@ -3,8 +3,8 @@
   <br/>
   <img
     style="display: inline-block;"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Cabdifatah+Toni"
-    alt="Cabdifatah Toni"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Aabdifatah+Toni"
+    alt="Aabdifatah Toni"
   />
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">
 </h1>
@@ -26,6 +26,11 @@ I am a dedicated Frontend Developer and current student at **Golis University**.
 ---
 
 ### 🚀 Featured Projects
+
+* **[ASL Sign Recognition System](https://github.com/Cabdifatahtoni/Final-Year-Project-ASL)** 🤟
+    * **The Solution:** A final year project software that extracts hand & pose landmarks from webcam feeds/video clips to identify isolated American Sign Language words.
+    * **The Tech:** `TensorFlow / Keras` • `MediaPipe` • `Flask` • `OpenCV` • `Python`
+    * **Note:** Powered by a spatial-temporal Light Transformer model achieving 78% test accuracy.
 
 * **[Cabdi AI | Chatbot & Document Summarizer](https://github.com/Cabdifatahoni/Cabdi-AI-chatbot)** 🤖
     * **The Solution:** A high-performance AI workspace supporting multi-file summarization (.pdf, .docx, .txt) and persistent chat threads.
